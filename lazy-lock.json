@@ -1,0 +1,10 @@
+{
+  "copilot.vim": { "branch": "release", "commit": "2c31989063b145830d5f0bea8ab529d2aef2427b" },
+  "lazy.nvim": { "branch": "main", "commit": "96584866b9c5e998cbae300594d0ccfd0c464627" },
+  "nvim-jdtls": { "branch": "master", "commit": "382b9f625861f47d95876bcfb4c261f3b96077cb" },
+  "nvim-lspconfig": { "branch": "master", "commit": "90a28fd7637b66e055af62387ecee06f7cbd3173" },
+  "nvim-treesitter": { "branch": "master", "commit": "9a746b4b6a1ef215943f07e6aa2ec35fb14097d4" },
+  "plantuml.nvim": { "branch": "master", "commit": "d7acbf9899945cc8fad2f068127c3a9f3b51db22" },
+  "plenary.nvim": { "branch": "master", "commit": "50012918b2fc8357b87cff2a7f7f0446e47da174" },
+  "telescope.nvim": { "branch": "master", "commit": "7011eaae0ac1afe036e30c95cf80200b8dc3f21a" }
+}
